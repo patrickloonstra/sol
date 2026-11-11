@@ -28,7 +28,7 @@ Gemaakt door een secretaris, voor secretarissen en gegevensbeheerders van Scouti
 ## Installeren
 
 **Claude-app (web of desktop)**
-1. Download `sol-scouting-ledenadministratie.zip` via [Releases](https://github.com/patrickloonstra/sol/releases) (of zip zelf de map `sol-scouting-ledenadministratie`).
+1. Download [`sol-scouting-ledenadministratie.zip`](https://github.com/patrickloonstra/sol/raw/main/sol-scouting-ledenadministratie.zip).
 2. Ga in Claude naar de instellingen en zoek het onderdeel **Skills**. Upload daar de zip.
 3. Gebruik de Claude-desktopapp met de ingebouwde browser of Claude in Chrome, zodat Claude in SOL kan meekijken en klikken.
 
